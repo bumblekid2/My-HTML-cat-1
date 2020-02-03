@@ -1,0 +1,47 @@
+body{
+    background-image: url("resourses/yy.jpeg");
+    display: flex;
+    background-size: 100%;
+}
+.y{
+    display: flex;
+    width: 50%;
+    height: 100vh;
+    color: #fcf6ff;
+
+}
+.u{
+    display: flex;
+    width: 50%;
+    height: 100vh;
+}
+.f{
+    background-color: #86dbf5;
+    width: 70%;
+    height: 70%;
+    padding-top: 15px;
+    border-radius: 20px;
+    opacity: 70%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+    margin-bottom: 30%;
+}
+.x{
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    background-color: unset;
+    border-radius: 10px;
+    border-top: unset;
+    border-right: unset;
+    border-left: unset;
+}
+.z{
+    padding-right: 100px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-left: 20%;
+    background-color: white;
+}

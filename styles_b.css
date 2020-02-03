@@ -1,0 +1,46 @@
+.b_top{
+    display: flex;
+    background-color: grey;
+    height: 10vh;
+}
+.b_top_left{
+    display: flex;
+    background-color: grey;
+    height: 10vh;
+    width: 10%;
+}
+.b_top_middle{
+    display: flex;
+    background-color: #a8a5a5;
+    height: 10vh;
+    width: 80%;
+    opacity: unset;
+}
+.b_top_right{
+    display: flex;
+    background-color: grey;
+    height: 10vh;
+    width: 10%;
+}
+.mid{
+    text-align: center;
+    text-decoration: unset;
+    margin-right: 10%;
+    margin-left: 5%;
+}
+body{
+    background-image: url("resourses/w.jpeg");background-size: 100%;
+}
+.x{
+    width: 33.3%;
+}
+.l{
+    text-decoration: none;
+    background-color: unset;
+    border: white;
+
+
+}
+.qq{
+    width: 100%;
+}
